@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>BBD4CB52-E965-4B95-8178-C3B02B3DCD98</string>
 	<key>IDESourceControlProjectName</key>
-	<string>Postcard</string>
+	<string>project</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>422A314E5F77DF5340E364FEA3D89419D43DF7E0</key>
 		<string>https://github.com/slipstream76/postcard</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Postcard.xcodeproj</string>
+	<string>Postcard.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>422A314E5F77DF5340E364FEA3D89419D43DF7E0</key>

@@ -41,8 +41,9 @@ class ViewController: UIViewController {
         
         enterMessageTextField.text = ""
         enterNameTextField.text = ""
-        enterMessageTextField.resignFirstResponder()
         
+        // "resignFirstResponder" causes some strange crash behavior depending on the status of the emulator keyboard
+        // enterMessageTextField.resignFirstResponder()
         
         mailButton.setTitle("Mail Sent", forState: UIControlState.Normal)
         
